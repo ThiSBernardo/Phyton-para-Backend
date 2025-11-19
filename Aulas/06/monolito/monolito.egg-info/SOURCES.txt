@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+monolito.egg-info/PKG-INFO
+monolito.egg-info/SOURCES.txt
+monolito.egg-info/dependency_links.txt
+monolito.egg-info/requires.txt
+monolito.egg-info/top_level.txt
+projeto_shopflow_monolith/__init__.py
+projeto_shopflow_monolith/asgi.py
+projeto_shopflow_monolith/settings.py
+projeto_shopflow_monolith/urls.py
+projeto_shopflow_monolith/wsgi.py
